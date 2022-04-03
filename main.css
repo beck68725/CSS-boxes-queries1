@@ -50,6 +50,7 @@ body {
       flex-wrap: wrap;
       justify-content: center;
     }
+}
   
     .b {
       flex-grow: 3;
